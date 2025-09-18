@@ -15,4 +15,3 @@ A MATLAB-based Monte Carlo simulation to study the penetration probability of ne
 The simulation reveals that concrete exhibits a high neutron absorption rate (~77.6%) at a 10 cm thickness.
 ## 👨‍💻 About the Author
 I am a Nuclear Engineering student passionate about computational physics and radiation shielding.
-**Connect with me:** [LinkedIn](your-linkedin-profile-link)
